@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <h1>Deployment test</h1>
-      <p>Check the changes</p>
+      <button>Click me</button>
     </div>
+
   );
 }
 
